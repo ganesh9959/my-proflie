@@ -1,0 +1,51 @@
+<body>
+  <div class="containar">
+   <div class="red">
+    
+   </div>
+  
+    <div class="blue">
+    
+  </div>
+    <div class="yellow">
+    
+  </div>
+  </div>
+  <h1>ganeshkumar</h1>
+    <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>  <h1>ganeshkumar</h1>
+</body>
+----------------------------------------------------------------------------------------
+
+
+body{
+  margin:0px;
+}
+.containar{
+  height:500px;
+  width:500px;
+ background-color:gray
+}
+.red{
+  background-color:red;
+  width:100px;
+  height:100px;
+  position:absolute;
+  left:200px;
+  top:200px
+}
+.blue{
+  background-color:blue;
+  width:100px;
+  height:100px;
+  position:absolute;
+  left:100px;
+  top:100px
+}
+.yellow{
+  background-color:yellow;
+  width:100px;
+  height:100px;
+  position:fixed;
+  left:0px
+}
+  
